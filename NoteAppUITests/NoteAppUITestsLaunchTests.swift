@@ -2,7 +2,7 @@
 //  NoteAppUITestsLaunchTests.swift
 //  NoteAppUITests
 //
-//  Created by Prasanna Ramesh on 10/09/22.
+//  Created by Vinoth Priyan on 10/09/22.
 //
 
 import XCTest
